@@ -77,7 +77,7 @@
 - 🛠️ **Frontend Developer Intern** – *Accelchain*  
   Cloned [Hashstack Finance](https://hashstack.finance/) using **React**, live market data, and DApp features.
 
-- 🛠️ **Full Stack Developer Intern** – *BlackSolution Labs*  
+- 🛠️ **Full Stack Developer Intern** – *BlockSolution labs*  
   Worked on smart contract interaction, Web3 UI, and secure backend architecture for decentralized systems.
 
 - 🛠️ **Flutter Developer Intern** – *MedsyPlus / Ascassy Cloud*  
