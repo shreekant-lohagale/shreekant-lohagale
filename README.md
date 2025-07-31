@@ -74,13 +74,13 @@
 
 ##  Internship Experience
 
-- 🛠️ **Frontend Developer Intern** – *Accelchain*  
+-  **Frontend Developer Intern** – *Accelchain*  
   Cloned [Hashstack Finance](https://hashstack.finance/) using **React**, live market data, and DApp features.
 
-- 🛠️ **Full Stack Developer Intern** – *BlockSolution labs*  
+-  **Full Stack Developer Intern** – *BlockSolution labs*  
   Worked on smart contract interaction, Web3 UI, and secure backend architecture for decentralized systems.
 
-- 🛠️ **Flutter Developer Intern** – *MedsyPlus / Ascassy Cloud*  
+-  **Flutter Developer Intern** – *MedsyPlus / Ascassy Cloud*  
   Built cross-platform UI components for a quick-commerce healthcare app using **Flutter** and **Firebase**.
 
 ---
@@ -88,7 +88,7 @@
 ##  Projects
 
 - **Blockchain-Based Medical Record System**  
-  `React.js · Node.js · Solidity · GSAP`  
+  `React.js · Node.js · GSAP`  
   ➤ Decentralized solution for secure patient records with smart contracts and audit logging.
 
 - **Micro-Loan Platform** [Live](https://micro-loan.vercel.app)  
@@ -99,64 +99,77 @@
 
 ---
 
-## 💻 Tech Stack
+<h2 align="center">💻 Tech Stack</h2>
 
-### ⚛️ Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/next-black?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/chakra-ui-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white)
+<h3 align="center">⚛️ Frontend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/next-black?style=flat&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/chakra-ui-%234ED1C5.svg?style=flat&logo=chakraui&logoColor=white" alt="Chakra UI"/>
+</p>
 
-### 🖥️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+<h3 align="center">🖥️ Backend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
+</p>
 
-### ☁️ Database & Cloud
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+<h3 align="center">☁️ Database & Cloud</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/google%20cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+</p>
 
-### 🧠 Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+<h3 align="center">🧠 Programming Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/python-%2314354C.svg?style=flat&logo=python&logoColor=white" alt="Python"/>
+</p>
 
-### 🤖 ML & AI Tools
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+<h3 align="center">🤖 ML & AI Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+</p>
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
+<h3 align="center">🛠️ Tools & Platforms</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+</p>
 
----
+<hr/>
+
 
 ## 🧠 Achievements & Certifications
 
-- 🏅 **Hack for Impact – IIIT Delhi (E-Summit 2025)**  
+- 🏅 Hack for Impact – IIIT Delhi (E-Summit 2025)  
   Participated in building a solution aligned with social innovation and entrepreneurship.
 <p align="center">
   <img width="838" height="589" alt="image" src="https://github.com/user-attachments/assets/93a3aad1-55b6-4d73-9c40-48487f3447e7" /> 
 </p>
-- 🥇 **Build with India Hackathon – Google Finale (Top 5K/25K)**  
+
+- 🥇 Build with India Hackathon – Google Finale (Top 5K/25K) 
   Achieved top 20% performance among 25,000 participants.
 <p align="center">
   <img width="838" height="589" alt="image" src="https://github.com/user-attachments/assets/bb37eeef-a6db-4798-a31a-dc9d1f597a23" /> 
 </p>  
 
-- 🧾 **CESA Membership (2023–2024)**  
-  Active member of the *Computer Engineering Student Association (CESA)* at JSPM RSCOE Polytechnic:contentReference[oaicite:0]{index=0}
+- 🧾 CESA Membership (2023–2024)  
+  Active member of the *Computer Engineering Student Association (CESA)* at JSPM RSCOE Polytechnic
 <p align="center">
   <img width="838" height="589" alt="image" src="https://github.com/user-attachments/assets/a80c23e0-1dbd-4bb7-8ce7-eb50e9541345" /> 
 </p>
----
