@@ -55,13 +55,17 @@ Currently, I’m honing my skills as a **Frontend Developer Intern** at **Novast
 
 ### 🚀 Featured Projects
 
-| Project                                     | Description                                                                 | Tech Stack                                  | Live Demo                                                                        |
-| ------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------- |
-| **CMLRE Marine Data Platform** | Unified AI-driven data portal for oceanographic and biodiversity insights.  | `Next.js`, `Tailwind CSS`, `Chart.js`       | [View Project](https://cmlre-marine-data-platform.vercel.app/platform/dashboard) |
-| **FloatChat – ARGO Ocean Data Discovery** | AI-powered platform for ARGO float data visualization and interaction.      | `React`, `Flask`, `OpenAI API`              | [Visit Site](https://argo-floatchat.vercel.app/)                                 |
-| **Blockchain-Based Micro-Loan Platform** | DApp enabling micro-loans via smart contracts for financial inclusion.      | `React.js`, `Solidity`, `Web3Modal`         | [Explore](https://micro-loan.vercel.app/)                                        |
-| **Blockchain-Based Medical Record System** | Decentralized solution for secure patient records with audit logging.       | `React.js`, `Node.js`, `GSAP`               | `Private Repo`                                                                   |
+- **CMLRE Marine Data Platform**
+  - **Description:** An AI-driven data portal for oceanographic and biodiversity insights.
+  - **Live Demo:** [**cmlre-marine-data-platform.vercel.app**](https://cmlre-marine-data-platform.vercel.app/platform/dashboard)
 
+- **FloatChat – ARGO Ocean Data Discovery**
+  - **Description:** An AI-powered platform for ARGO float data visualization.
+  - **Live Demo:** [**argo-floatchat.vercel.app**](https://argo-floatchat.vercel.app/)
+
+- **Blockchain-Based Micro-Loan Platform**
+  - **Description:** A DApp enabling micro-loans via smart contracts for financial inclusion.
+  - **Live Demo:** [**micro-loan.vercel.app**](https://micro-loan.vercel.app/)
 ---
 
 ### 💼 Internship Experience
