@@ -1,9 +1,9 @@
 <h1 align="center">Hey there! 👋 I'm Shreekant Lohagale</h1>
 <h3 align="center">Frontend Developer | AI & Blockchain Innovator | Open Source Contributor</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://cmlre-marine-data-platform.vercel.app/platform/dashboard" target="_blank"><strong>View My Projects »</strong></a>
-</p>
+</p> -->
 
 ---
 
@@ -82,7 +82,7 @@ Currently, I’m honing my skills as a **Frontend Developer Intern** at **Novast
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shreekant-lohagale&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreekant-lohagale&theme=radical&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreekant-lohagale&theme=radical&hide_border=false&layout=compact" width="98%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreekant-lohagale&theme=radical&hide_border=false&layout=compact" width="68%"/>
 </p>
 
 ---
