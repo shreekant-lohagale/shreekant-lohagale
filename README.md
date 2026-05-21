@@ -1,9 +1,11 @@
+# Hi 👋 I'm Shreekant Lohagale
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=200&section=header&text=Shreekant%20Lohagale&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Engineer%20%7C%20Full%20Stack%20%7C%20AI%2FML&descSize=20&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=200&section=header&text=Shreekant%20Lohagale&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Generative%20AI%20%7C%20Full%20Stack%20Developer%20%7C%20CSE-AIML&descSize=20&descAlignY=60"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;AI%2FML+Driven+Systems;Full+Stack+Development;Clean+UI+%2B+High+Performance" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Generative+AI+%2B+Full+Stack+Developer;Building+AI-Powered+Products;DSA+%7C+React+%7C+Python+%7C+LangChain;Creating+Scalable+and+Intelligent+Systems" />
 </div>
 
 <div align="center">
@@ -20,71 +22,99 @@
 
 ---
 
-## About
+## About Me
 
-I am a Computer Science (AI & ML) undergraduate at Pimpri Chinchwad University focused on building scalable web applications and intelligent systems.
+I am a Computer Science undergraduate specializing in Artificial Intelligence and Machine Learning at Pimpri Chinchwad University.
 
-I work across frontend, backend, and machine learning to develop high-performance applications that solve real-world problems.
+I build scalable applications and AI-powered systems by combining software engineering, full-stack development, and intelligent technologies.
+
+My interests include Generative AI, modern web technologies, system design, and solving real-world problems through impactful products.
 
 ---
 
 ## Experience
 
-**Jr. Frontend Developer Intern – BlockSolution Labs**
+### Jr. Frontend Developer Intern – BlockSolution Labs
 
-* Built 15+ production-ready UI components using React.js and modern frameworks
-* Improved performance and reduced load time through optimized rendering
-* Integrated REST APIs and enhanced frontend-backend communication
+* Built production-ready UI components using React.js
+* Optimized rendering performance and improved user experience
+* Integrated APIs and improved frontend-backend communication
 
-**Frontend Developer Intern – Novastack Solutions**
+### Flutter Developer Intern – MedsyPlus
 
-* Developed scalable UI systems and application interfaces
-* Improved responsiveness and cross-device compatibility
-
-**Flutter Developer Intern – MedsyPlus**
-
-* Built cross-platform mobile features
-* Improved application stability and performance
+* Built cross-platform mobile application features
+* Improved application performance and usability
 
 ---
 
-## Projects
+## Tech Stack
 
-**EcoGuard – AI-Powered Carbon Intelligence Platform**
+### Languages
 
-* Built full-stack system integrating AI models and real-time data pipelines
-* Implemented intelligent carbon footprint estimation
-* Designed interactive dashboards for data visualization
+Python • JavaScript • C++
 
-**Brain Tumor Detection System**
+### Frontend
 
-* Developed ML model with high prediction accuracy
-* Built backend APIs for real-time inference
+React • Tailwind CSS • HTML • CSS
 
-**Housing Price Prediction Dashboard**
+### Backend
 
-* Created interactive dashboard using Streamlit and Plotly
-* Implemented regression model for predictive analytics
+Node.js • Express • FastAPI
+
+### Artificial Intelligence
+
+Generative AI • LangChain • RAG • LLM APIs • Vector Databases
+
+### Database
+
+MongoDB • PostgreSQL
+
+### Tools
+
+Git • GitHub • Docker • Figma
+
+---
+
+## Featured Projects
+
+### Blockchain-Based Medical Record System
+
+Decentralized patient record management platform using blockchain technology.
+
+### AI Medical Imaging Platform
+
+AI-powered healthcare imaging analysis platform integrating multiple intelligent models.
+
+### Blockchain-Based Micro-Loan System
+
+Peer-to-peer lending system using blockchain for transparency and secure transactions.
+
+### Interactive 3D Web Experience
+
+Developed immersive web interactions using Spline and motion tracking concepts.
 
 ---
 
 ## Achievements
 
-* 1st Place – Code4Society Hackathon 2026 (550+ teams)
-* Winner – CodeApex 2.0 (Web Development Domain)
-* Selected – IIIT Delhi Hackathon (Top 50 teams)
+* Winner – CodeApex 2.0 (Web Development)
+* Selected – IIIT Delhi Hackathon (Top 50 Teams)
+* Hackathon Participant with experience in AI and full-stack product development
 
 ---
 
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreekant-lohagale&theme=radical" alt="Profile Details">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreekant-lohagale&theme=radical" alt="Profile Details">
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreekant-lohagale&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=shreekant-lohagale&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6584&currStreakLabel=6C63FF" />
+<img height="180em" src="https://streak-stats.demolab.com?user=shreekant-lohagale&theme=radical&hide_border=true&background=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreekant-lohagale&theme=radical" />
 </div>
 
 ---
