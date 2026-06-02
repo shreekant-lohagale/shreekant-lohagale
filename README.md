@@ -37,7 +37,7 @@ My interests include Generative AI, modern web technologies, system design, and 
 ### Jr. Frontend Developer Intern – BlockSolution Labs
 
 * Built production-ready UI components using React.js
-* Optimized rendering performance and improved user experience
+* Optimized rendering performance and improved user experience.
 * Integrated APIs and improved frontend-backend communication
 
 ### Flutter Developer Intern – MedsyPlus
