@@ -1,300 +1,138 @@
-<div align="center">
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=200&section=header&text=Shreekant%20Lohagale&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Full-Stack%20Developer&descSize=17&descAlignY=58"/><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2600&pause=900&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Products;Generative+AI+%7C+RAG+%7C+LLM+Applications;Machine+Learning+%7C+Computer+Vision;Turning+Ideas+into+Real-World+Systems" /><br/><a href="https://www.linkedin.com/in/shreekant-lohagale/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="mailto:shreekantlohagale@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://github.com/shreekant-lohagale">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a></div>---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0F172A&height=220&section=header&text=Shreekant%20Lohagale&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=58"/>
+👨‍💻 About Me
 
-</div>
+I'm Shreekant Lohagale, a final-year B.Tech CSE student specializing in Artificial Intelligence & Machine Learning.
 
-<div align="center">
+I build applications that combine AI, Generative AI, machine learning and modern full-stack development.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Building+AI-Powered+Products;Generative+AI+%7C+RAG+%7C+LLM+Applications;Next.js+%7C+React+%7C+FastAPI+%7C+Node.js;Turning+Ideas+into+Production-Ready+Systems" />
+Currently focused on:
 
-</div>
+"Generative AI" • "RAG" • "LLMs" • "Machine Learning" • "Computer Vision" • "AI Applications"
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/shreekant-lohagale/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:shreekantlohagale@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/shreekant-lohagale">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+🎯 Interested in AI Engineer / Generative AI Engineer roles.
 
 ---
 
-## 👨‍💻 About Me
+🚀 Currently Working On
 
-I'm **Shreekant Lohagale**, a final-year B.Tech Computer Science student specializing in **Artificial Intelligence & Machine Learning** at Pimpri Chinchwad University, Pune.
-
-I enjoy building intelligent products that combine **AI, Generative AI, machine learning, and modern full-stack development**.
-
-My current focus is on:
-
-- 🤖 Generative AI & LLM Applications
-- 📚 Retrieval-Augmented Generation (RAG)
-- 🧠 AI/ML Systems
-- ⚡ Full-Stack AI Applications
-- 🌐 Next.js & React Applications
-- 🔗 API & System Integration
-- 🏗️ Production-ready AI products
-
-I am particularly interested in **AI Engineer, Generative AI Engineer, and AI Application Engineer** roles.
+- Building advanced RAG & LLM applications
+- Developing AI-powered products with FastAPI, React & Next.js
+- Improving production-ready AI architectures
+- Exploring AI agents, embeddings and intelligent retrieval systems
 
 ---
 
-## 🚀 Currently Building
+🧠 Tech Stack
 
-- Advanced **RAG-based AI applications**
-- AI-powered full-stack products using **FastAPI, React & Next.js**
-- Headless ecommerce systems using **Next.js + Shopify APIs**
-- Customer authentication, cross-device state synchronization, and API-driven commerce experiences
-- Scalable AI and web application architectures
+<div align="center"><img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,postgresql,docker,git,github,vercel,vscode" /><br/><br/>
 
----
+"LangChain" • "RAG" • "LLM APIs" • "ChromaDB" • "Embeddings" • "TensorFlow" • "Machine Learning" • "Prompt Engineering"
 
-# 💼 Experience
+</div>---
 
-### 💻 Jr. Frontend Developer Intern — BlockSolution Labs
+🌟 Featured Projects
 
-- Built reusable and production-ready frontend components using React.js.
-- Integrated APIs with frontend applications.
-- Improved responsive behavior and user experience.
-- Worked with real-world development workflows using Git and GitHub.
+🌱 EcoGuard — AI-Powered Carbon Intelligence Platform
 
-### 📱 Flutter Developer Intern — MedsyPlus
+Multi-modal AI platform combining Machine Learning, Computer Vision and IoT to analyze carbon impact.
 
-- Developed cross-platform mobile application features.
-- Worked on UI implementation and application functionality.
-- Improved usability and application performance.
-
-### ⛓️ Technical Team Member — ChainAlchemy
-
-- Contributed to technical projects and development activities.
-- Built and maintained web-based solutions for the blockchain community.
-- Worked collaboratively on development and technical initiatives.
-
----
-
-# 🧠 Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp" />
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" />
-</p>
-
-## Backend & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-## Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
-</p>
-
-## AI / Generative AI
-
-`Generative AI` • `LangChain` • `RAG` • `LLM APIs` • `Vector Databases`  
-`Machine Learning` • `Embeddings` • `ChromaDB` • `Prompt Engineering`
-
-## Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vercel,vscode" />
-</p>
-
----
-
-# 🌟 Featured Projects
-
-## 🌱 EcoGuard — AI-Powered Carbon Intelligence Platform
-
-AI-powered environmental intelligence platform built to analyze and understand carbon impact using multiple AI modalities.
-
-### Highlights
-
-- Tri-modal AI/ML architecture
-- Machine learning-based lifestyle carbon prediction
-- YOLO-based computer vision detection
+- Lifestyle carbon prediction
+- YOLOv8 object detection
 - IoT sensor integration
-- Full-stack dashboard
-- Real-time API integration
+- Real-time API communication
 
-### Tech
+🏆 1st Place — SIC Code4Society Hackathon 2026
 
-`Python` `React` `FastAPI` `Flask` `YOLOv8` `Machine Learning` `IoT`
+"Python" "React" "FastAPI" "YOLOv8" "Machine Learning" "IoT"
 
-🏆 **1st Place — SIC Code4Society Hackathon 2026**
-
-🔗 [Live Demo](https://ecoguard-nu.vercel.app/)  
-🔗 [GitHub Repository](https://github.com/shreekant-lohagale/EcoGuard---AI-Powered-Carbon-Intelligence-Platform)
+"🌐 Live Demo" (https://ecoguard-nu.vercel.app/) • "💻 GitHub" (https://github.com/shreekant-lohagale/EcoGuard---AI-Powered-Carbon-Intelligence-Platform)
 
 ---
 
-## 📚 Lumina Academic AI — RAG Student System
+📚 Lumina Engine — RAG Knowledge Hub
 
-An AI-powered academic assistant that allows students to interact with educational documents using Retrieval-Augmented Generation.
+AI-powered document assistant built using Retrieval-Augmented Generation for grounded and context-aware answers.
 
-### Architecture
-
-PDF / Documents  
-↓  
-Text Chunking  
-↓  
-Embeddings  
-↓  
-ChromaDB Vector Store  
-↓  
-Retriever  
-↓  
-LLM  
-↓  
-Context-aware Answer
-
-### Features
-
-- PDF and document ingestion
+- Document ingestion
 - Semantic search
-- MMR-based retrieval
-- Context-aware responses
-- Vector database persistence
-- “I don't know” fallback when context is unavailable
+- MMR retrieval
+- Vector database
+- LLM-based responses
 
-### Tech
+"Python" "FastAPI" "LangChain" "Mistral AI" "ChromaDB" "Sentence Transformers"
 
-`Python` `FastAPI` `React` `LangChain` `Mistral AI` `ChromaDB` `Sentence Transformers`
-
----
-
-## 🎓 College Course Registration System
-
-A full-stack course registration platform designed to manage student course enrollment and authentication.
-
-### Features
-
-- Student authentication
-- Google OAuth
-- JWT authentication
-- Course registration workflows
-- REST API architecture
-- MongoDB cloud database
-- Responsive React frontend
-
-### Tech
-
-`React` `Node.js` `Express` `MongoDB` `Passport.js` `JWT`
-
-🔗 [Live Demo](https://ccrs-ochre.vercel.app/)  
-🔗 [GitHub Repository](https://github.com/shreekant-lohagale/College-Course-Registration-System)
+"🌐 Live Demo" (https://aiml-syllabusai.vercel.app/)
 
 ---
 
-## 🏥 Intelligent Offline Medical Data Validation System
+🧠 Neo-v1ai — Dynamic Personality Model
 
-Offline-first healthcare data collection system designed for environments with limited network connectivity.
+AI-based system focused on creating more adaptive and personality-aware intelligent interactions.
 
-### Features
+"Python" "AI/ML" "LLMs" "Full-Stack Development"
 
-- Offline form storage
-- Intelligent form validation
-- Local IndexedDB persistence
-- Data synchronization
-- Anomaly detection concepts
-- Conflict-safe synchronization architecture
-
-### Tech
-
-`React` `IndexedDB` `JavaScript` `Node.js` `Machine Learning`
+"🌐 Live Demo" (https://neo-v1ai.vercel.app/) • "💻 GitHub" (https://github.com/shreekant-lohagale/Neo-v1ai-Dynamic-Personality-Model-)
 
 ---
 
-# 🛒 Engineering Beyond AI
+🩺 AI-Powered Mastitis Detection
 
-I also work on advanced full-stack and ecommerce systems.
+Computer vision pipeline for classifying Healthy vs Mastitis images using deep learning.
 
-Recently, I have worked on a **headless Shopify ecommerce architecture** involving:
+- MobileNetV2 transfer learning
+- Image augmentation
+- Automated data ingestion
+- Evaluation & prediction pipeline
 
-- Next.js App Router
-- Shopify Storefront API
-- Shopify Customer Account API
-- OAuth 2.0 + PKCE authentication
-- Customer metafields
-- Cross-device wishlist synchronization
-- Dynamic products and collections
-- Cart & Shopify checkout integration
-- Multi-market currency handling
-- Framer Motion
-- Mobile performance optimization
-- SEO & Vercel deployment
-
-This experience has helped me work beyond UI development and understand complete production application architecture.
+"Python" "TensorFlow" "MobileNetV2" "Computer Vision"
 
 ---
 
-# 🏆 Achievements
+💼 Experience
 
-🥇 **1st Place — SIC Code4Society Hackathon 2026**
+💻 Jr. Frontend Developer Intern — BlockSolution Labs
 
-🏆 **Winner — CodeApex 2.0, Web Development**
+Built reusable React components, integrated APIs and worked with real-world Git/GitHub development workflows.
 
-🚀 **Selected for Round 2 — IIIT Delhi Hackathon**
+📱 Flutter Developer Intern — MedsyPlus
 
-💡 Participated in multiple AI, web development, blockchain, and innovation hackathons.
+Worked on cross-platform mobile application features, UI implementation and application functionality.
+
+⛓️ Technical Team Member — ChainAlchemy
+
+Contributing to technical projects, web development and blockchain community initiatives.
 
 ---
 
-# 📊 GitHub Analytics
+🏆 Achievements
 
-<div align="center">
+🥇 1st Place — SIC Code4Society Hackathon 2026
 
-<img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreekant-lohagale&theme=github_dark"/>
+🏆 Winner — CodeApex 2.0, Web Development
+
+🚀 Selected for Round 2 — IIIT Delhi Hackathon
+
+---
+
+📊 GitHub Analytics
+
+<div align="center"><img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreekant-lohagale&theme=github_dark"/><br/><br/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreekant-lohagale&theme=github_dark"/><img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreekant-lohagale&theme=github_dark"/><br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=shreekant-lohagale&theme=github-dark-blue&hide_border=true"/></div>---
+
+<div align="center">🚀 Building at the intersection of AI + Software Engineering
+
+"RAG" → "LLM Applications" → "AI Systems" → "Real-World Products"
+
+<br/>⭐ Explore my repositories and feel free to connect
 
 </div>
-
-<br/>
-
-<div align="center">
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreekant-lohagale&theme=github_dark"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreekant-lohagale&theme=github_dark"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shreekant-lohagale&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
-
-# 🎯 Current Focus
-
-```text
-Generative AI
-     ↓
-LLM Applications
-     ↓
-RAG Systems
-     ↓
-AI + Full-Stack Development
-     ↓
-Production-Ready AI Products
